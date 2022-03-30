@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello, qA.GUrU2!");
         System.out.println("test branch");
+
+        System.out.println("new line");
     }
 }
