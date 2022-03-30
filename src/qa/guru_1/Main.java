@@ -8,6 +8,6 @@ public class Main {
         System.out.println("test conflict");
     }
 	 public static void another() {
-        System.out.println("Another method!");
+        System.out.println("Another method!!!!!! test test new help");
     }
 }
