@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello, qA.GUrU2!");
         System.out.println("test branch");
 
-        System.out.println("new line");
+        System.out.println("new line test");
     }
 }
