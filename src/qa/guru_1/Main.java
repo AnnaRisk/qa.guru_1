@@ -7,4 +7,7 @@ public class Main {
         System.out.println("Hello, qA.GUrU2!");
         System.out.println("test conflict");
     }
+	 public static void another() {
+        System.out.println("Another method!");
+    }
 }
