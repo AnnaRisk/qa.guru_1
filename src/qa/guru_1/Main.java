@@ -10,4 +10,7 @@ public class Main {
         System.out.println("new line test");
 
     }
+	 public static void another() {
+        System.out.println("Another method!");
+    }
 }
