@@ -14,6 +14,6 @@ public class Main {
         System.out.println("Another method!");
     }
 	 public static void another() {
-        System.out.println("Another method!!!!!! test test new help");
+        System.out.println("Another method!!!!!! test test new help TEST ANNA");
     }
 }
